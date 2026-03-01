@@ -1,6 +1,4 @@
-name: Daily Auto Commit
-
-run-name: 24f2004163@ds.study.iitm.ac.in Daily Scheduled Run
+name: 24f2004163@ds.study.iitm.ac.in
 
 on:
   schedule:
@@ -15,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Scheduled Step
+      - name: 24f2004163@ds.study.iitm.ac.in Scheduled Step
         run: |
           echo "Updated on $(date)" >> daily_log.txt
 
