@@ -1,0 +1,16 @@
+name: Simple CI
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run simple command
+        run: echo "Workflow is running successfully"
