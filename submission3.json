@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic wide-angle landscape photograph at golden hour, showing a large hillside covered in many winding footpaths. Each individual path clearly slopes upward from left to right — visible through small sections of the paths in the foreground and midground. However, the entire mountain slopes downward from left to right when viewed as a whole. Both truths are visible at the same time: local paths go upward and global terrain goes downward. The contradiction should feel physically real but logically wrong. Composition: wide view showing both local detail and overall shape clearly. Mood: subtle unease, quiet contradiction. Color palette: warm amber light, green vegetation, hazy blue distance. No text, no charts, no arrows, no labels, no diagrams. Photorealistic, natural environment.",
+  "model": "DALL-E 3 via ChatGPT",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each small path slopes upward locally while the entire mountain slopes downward globally, showing opposite trends simultaneously in one scene."
+}
