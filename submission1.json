@@ -1,6 +1,6 @@
 {
-  "prompt": "...",
-  "model": "...",
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. A bespoke suit jacket hangs on a tailor's dummy, covered in an excessive number of hand-stitched seams, darts, and intricate adjustments that track every contour of a single specific body. The craftsmanship looks obsessive and extremely precise. Next to it, another mannequin is wearing the same jacket, but it clearly does not fit — the fabric pulls awkwardly, seams misalign, and the shape is distorted. The suit is too specific to one body and fails on another. Warm natural atelier lighting, wooden workspace, tailoring tools visible in background. Photorealistic, documentary style. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements. Everything must look like a real photograph.",
+  "model": "DALL-E 3 via ChatGPT",
   "concept": "overfitting",
-  "metaphor": "..."
+  "metaphor": "A suit tailored so precisely to one person that it fails to fit anyone else, showing extreme specificity that prevents generalization."
 }
